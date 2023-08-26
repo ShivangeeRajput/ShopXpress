@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577370601829",
+    "project_id": "shopxpress-bc031",
+    "storage_bucket": "shopxpress-bc031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577370601829:android:967189d111bea76e0e498c",
+        "android_client_info": {
+          "package_name": "com.example.shopxpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577370601829-opmo44j2fghp8vsq3r2kt4cbnrn5rkq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZijlxQUG7HocVuaaAINOzitmqAIF_q1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577370601829-opmo44j2fghp8vsq3r2kt4cbnrn5rkq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
