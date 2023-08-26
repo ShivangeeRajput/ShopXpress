@@ -1,5 +1,7 @@
 # ShopXpress
-A Simple Shopping Application.
+* [x]  A Simple Shopping Application.
+
+* [x] Currently working on it...
 <p>
   
   <img src="https://github.com/ShivangeeRajput/ShopXpress/assets/100294737/f329c4b3-5665-45da-8705-ae431236af77.jpg" height="500">
